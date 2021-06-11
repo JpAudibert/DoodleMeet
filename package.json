@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:JpAudibert/DoodleMeet.git",
   "author": "João Pedro Basso Audibert <hotsjoao@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node backend/src/index.js"
+  }
 }
