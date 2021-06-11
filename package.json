@@ -1,0 +1,8 @@
+{
+  "name": "doodlemeet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JpAudibert/DoodleMeet.git",
+  "author": "João Pedro Basso Audibert <hotsjoao@gmail.com>",
+  "license": "MIT"
+}
